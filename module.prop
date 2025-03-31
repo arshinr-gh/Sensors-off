@@ -1,0 +1,6 @@
+id=com.yourpackage.sensorsmod
+name=Sensors Off Modifier
+version=1
+versionCode=1
+author=YourName
+description=A module to modify Sensors Off behavior.
